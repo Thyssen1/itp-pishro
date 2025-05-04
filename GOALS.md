@@ -8,8 +8,8 @@ This document tracks the progress of solving exercises from *Introduction to Pro
 
 | Chapter    | Exercises Completed | Total Exercises |
 |------------|---------------------|-----------------|
-| Chapter 1  | 13                  | 39              |
-| Chapter 2  | 9                   | 21              |
+| Chapter 1  | 15                  | 39              |
+| Chapter 2  | 19                  | 21              |
 | Chapter 3  | 7                   | 25              |
 | Chapter 4  | 0                   | 23              |
 | Chapter 5  | 0                   | 38              |
